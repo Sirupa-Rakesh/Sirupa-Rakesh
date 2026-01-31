@@ -78,16 +78,23 @@ Designed and verified I2C communication protocol using **Verilog/VHDL**, simulat
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight"
+    alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sirupa-Rakesh&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Sirupa-Rakesh&theme=tokyonight"
+    alt="GitHub Streak" />
 </p>
+
 
 
 
@@ -104,6 +111,7 @@ Designed and verified I2C communication protocol using **Verilog/VHDL**, simulat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sirupa-Rakesh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
 
