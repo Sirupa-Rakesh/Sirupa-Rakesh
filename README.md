@@ -75,7 +75,18 @@ Designed and verified I2C communication protocol using **Verilog/VHDL**, simulat
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=tokyonight&hide_border=false" />
+</p>
+
 
 --------------------------------------------------------------------------------------------------------------------
 ## 🌐 Connect with Me
@@ -90,5 +101,6 @@ Designed and verified I2C communication protocol using **Verilog/VHDL**, simulat
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sirupa-Rakesh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 
