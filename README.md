@@ -25,7 +25,7 @@ Aspiring DevOps Engineer with strong interest in automation, cloud, and scalable
 
 ---
 
-# 💫 About Me:
+# 💫 
 I’m currently working on<br>Building hands-on DevOps skills by practicing Linux commands, Git workflows, and basic automation tasks.<br><br>🎯 I’m open to opportunities<br>Entry-level DevOps roles, internships, or mentorship opportunities to apply my skills and grow in a real-world DevOps environment.<br><br>🌱 I’m currently learning<br>Linux, Git & GitHub, Docker, Ansible, CI/CD concepts, and cloud basics (AWS).<br><br>💬 Ask me about<br>Linux basics, Git commands, DevOps fundamentals, and my learning journey as a fresher.<br><br>⚡ Fun fact<br>I enjoy breaking things in a lab environment just to fix them and learn better 😄
 
 
@@ -37,6 +37,7 @@ I’m currently working on<br>Building hands-on DevOps skills by practicing Linu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+
 
 
 
