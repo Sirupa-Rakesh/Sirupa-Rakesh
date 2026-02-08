@@ -24,9 +24,21 @@ Aspiring DevOps Engineer with strong interest in automation, cloud, and scalable
 - **Scripting:** Bash
 
 ---
+## 📊 GitHub Stats
 
-## ⭐ Git Status (VERY IMPORTANT)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+</p>
 
-```bash
-git status
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
+
+
 
