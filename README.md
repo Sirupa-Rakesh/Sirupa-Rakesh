@@ -7,7 +7,7 @@ Aspiring DevOps Engineer with strong interest in automation, cloud, and scalable
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech CSE (2022–2026)
+- 🎓 B.Tech ECE  (2022–2026)
 - 🐧 Strong in Linux & Git
 - ☁️ Learning AWS & Cloud fundamentals
 - 🔁 CI/CD basics with Jenkins
@@ -29,3 +29,4 @@ Aspiring DevOps Engineer with strong interest in automation, cloud, and scalable
 
 ```bash
 git status
+
