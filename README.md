@@ -32,10 +32,10 @@ I’m currently working on<br>Building hands-on DevOps skills by practicing Linu
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sirupa-Rakesh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 
 
