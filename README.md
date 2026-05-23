@@ -2,9 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0d3b5e,100:1a6fa8&height=220&section=header&text=Rakesh%20Sirupa&fontSize=72&fontColor=ffffff&fontAlignY=36&fontStyle=bold&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation&descAlignY=58&descSize=17&descColor=7eb8f7&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+Fresher+with+a+Builder's+Mindset+%26+DevOps+DNA" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+Fresher+with+a+Builder's+Mindset+%26+DevOps+DNA" alt="Typing SVG" />
 
 <br/><br/>
 
