@@ -12,7 +12,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sirupa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
 &nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siruparakesh07@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)]
 
 </div>
 
