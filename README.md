@@ -283,7 +283,7 @@ If you're a recruiter, engineer, or fellow learner — my inbox is always open!
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siruparakesh07@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
 
 <br/>
