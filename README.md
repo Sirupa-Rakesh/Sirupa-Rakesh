@@ -218,7 +218,6 @@ Terraform                  ████░░░░░░░░░░░░░�
 
 <br/>
 
-<!-- Activity Graph -->
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirupa-Rakesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
 
 </div>
