@@ -44,7 +44,7 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 👤  name     : Rakesh Sirupa
 🎓  degree   : B.Tech ECE
 📅  batch    : 2022 – 2026
-📍  location : Hyderabad, IN
+📍  location : Warangal Telangana, INDIA
 ───────────────────────────
 💼  role     : Aspiring DevOps
                 Engineer
