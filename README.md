@@ -6,11 +6,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sirupa-Rakesh&style=flat-square&color=1f6feb&label=Profile+Views)
-&nbsp;
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sirupa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-&nbsp;
 
 </div>
 
