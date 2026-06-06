@@ -4,9 +4,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+Fresher+with+a+Builder's+Mindset+%26+DevOps+DNA)
 
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sirupa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
+[![GitHub](https://img.shields.io/badge/GitHub-Sirupa--Rakesh-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
+![Profile Views](https://komarev.com/ghpvc/?username=Sirupa-Rakesh&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -39,7 +41,7 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 👤  name     : Rakesh Sirupa
 🎓  degree   : B.Tech ECE
 📅  batch    : 2022 – 2026
-📍  location : Warangal Telangana, INDIA
+📍  location : Warangal, INDIA
 ───────────────────────────
 💼  role     : Aspiring DevOps
                 Engineer
@@ -203,7 +205,7 @@ Terraform                  ████░░░░░░░░░░░░░�
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
 <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
 
 <br/>
@@ -229,6 +231,8 @@ Terraform                  ████░░░░░░░░░░░░░�
 </picture>
 
 </div>
+
+> ⚠️ Snake appears after running the GitHub Action workflow. See setup instructions below.
 
 ---
 
@@ -291,7 +295,6 @@ If you're a recruiter, engineer, or fellow learner — my inbox is always open!
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
 
 <br/>
@@ -299,6 +302,44 @@ If you're a recruiter, engineer, or fellow learner — my inbox is always open!
 ![Availability](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-2ea44f?style=for-the-badge)
 
 </div>
+
+---
+
+### 🐍 Snake Setup (one time only)
+
+<details>
+<summary>Click to expand setup steps</summary>
+
+1. Create `.github/workflows/snake.yml` in this repo with this content:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sirupa-Rakesh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Go to **Settings → Actions → General → Workflow permissions** → set **Read and write** → Save
+3. Go to **Actions tab** → **Generate Snake** → **Run workflow**
+
+</details>
 
 ---
 
