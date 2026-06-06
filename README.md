@@ -1,16 +1,66 @@
 ---
 
-## 📊 GitHub Analytics
+## 👨‍💻 About Me
+
+Hi, I'm **Rakesh Sirupa**.
+
+🎓 B.Tech (ECE) Graduate – 2026  
+📍 Warangal, Telangana, India  
+☁️ Aspiring DevOps Engineer  
+🚀 Passionate about Cloud, Automation, Linux, and Infrastructure
+
+I enjoy building real-world projects, automating repetitive tasks, and learning modern DevOps practices. My current focus is on Docker, AWS, Jenkins, Kubernetes, Ansible, and Terraform.
+
+I believe in learning by doing—creating labs, breaking systems, troubleshooting issues, and documenting everything I learn.
+
+---
+
+## 🎯 Current Focus
+
+- Linux Administration
+- Shell Scripting
+- Git & GitHub
+- Docker
+- AWS Cloud
+- Jenkins CI/CD
+- Kubernetes
+- Ansible
+- Terraform
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -20,99 +70,34 @@
 
 ---
 
-## 💡 DevOps Philosophy
+## 🚀 Featured Projects
 
-<div align="center">
+### 🐳 Roboshop Microservices Deployment
+- Dockerized applications
+- Multi-container deployments
+- Networking and troubleshooting
+- AWS EC2 hosting
 
-> *"Infrastructure should be code. Deployments should be boring. Incidents should be learning opportunities."*
+### ☁️ AWS Infrastructure Lab
+- EC2 provisioning
+- Security Groups
+- IAM Users and Roles
+- Linux Server Administration
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
-### 🔨 Build
-
-Hands-on projects over tutorials. Every tool I learn gets deployed in a real lab.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪 Break
-
-Intentional failures teach more than smooth runs. I break systems to understand how they work.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔍 Debug
-
-Logs, metrics, and root-cause analysis are the foundation of reliable systems.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔁 Automate
-
-If I do it twice, I script it. If I script it, I version-control it.
-
-</td>
-</tr>
-</table>
+### 🔄 CI/CD Pipeline
+- Jenkins automation
+- GitHub integration
+- Docker image builds
+- Automated deployments
 
 ---
 
-## 🎯 Current Learning Goals
+## 📚 Currently Learning
 
-<div align="center">
-
-| Technology | Status |
-|------------|--------|
-| Linux & Bash | ✅ Strong Foundation |
-| Git & GitHub | ✅ Active Usage |
-| Docker | 🔄 Learning |
-| AWS | 🔄 Learning |
-| Jenkins | 🔄 Learning |
-| Kubernetes | 📌 Planned |
-| Ansible | 📌 Planned |
-| Terraform | 📌 Planned |
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **DevOps Internships**, **Entry-Level DevOps Roles**, and opportunities to collaborate on real-world cloud and automation projects.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-
-<br><br>
-
-![Availability](https://img.shields.io/badge/Status-Open_to_Opportunities-brightgreen?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for Visiting My Profile ⭐
-
-<sub>Building • Learning • Automating • Growing</sub>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,50:0d3b5e,100:0d1117&height=100&section=footer"/>
-
-</div>
+```text
+Docker           ██████████████░░░░░
+AWS              █████████████░░░░░░
+Jenkins          ████████████░░░░░░░
+Kubernetes       ███████░░░░░░░░░░░░
+Ansible          █████░░░░░░░░░░░░░░
+Terraform        ████░░░░░░░░░░░░░░░
