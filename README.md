@@ -218,6 +218,20 @@ Terraform                  ████░░░░░░░░░░░░░�
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -297,3 +311,30 @@ If you're a recruiter, engineer, or fellow learner — my inbox is always open!
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,50:0d3b5e,100:0d1117&height=100&section=footer&animation=fadeIn"/>
 
 </div>
+
+
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Sirupa-Rakesh
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
