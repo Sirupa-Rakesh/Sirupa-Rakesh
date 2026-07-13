@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+Fresher+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+B.Tech+Graduate+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,13 +24,13 @@
 
 I am a **B.Tech ECE graduate (2026)** from Warangal, Telangana, India, with a strong passion for **DevOps, Cloud Infrastructure, and Automation**. I thrive on solving infrastructure challenges, building reliable pipelines, and automating repetitive workflows.
 
-Currently deepening my expertise across the **full DevOps toolchain** — from Linux internals and Bash scripting to containerization with Docker and cloud deployments on AWS. My approach is hands-on: I spin up lab environments, break things intentionally, and rebuild with deeper understanding.
+Now that I've graduated, I'm focused full-time on deepening my expertise across the **full DevOps toolchain** — from Linux internals and Bash scripting to containerization with Docker, orchestration with Kubernetes, and cloud deployments on AWS. My approach is hands-on: I spin up lab environments, break things intentionally, and rebuild with deeper understanding.
 
 **What I bring to a team:**
 - 🔍 Strong problem-solving with a debugging-first mindset
 - 🤝 Clear technical communication & documentation habits
 - ⚡ Self-driven learner who ships real projects, not just theory
-- 🔁 Comfortable with Linux CLI, Git workflows & basic automation
+- 🔁 Comfortable with Linux CLI, Git workflows & pipeline automation
 - 📝 Version-control everything — if I script it, I commit it
 
 </td>
@@ -40,16 +40,16 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 # rakesh-sirupa.yaml
 ───────────────────────────────
 👤  name     : Rakesh Sirupa
-🎓  degree   : B.Tech ECE
+🎓  degree   : B.Tech ECE (Graduated)
 📅  batch    : 2022 – 2026
 📍  location : Warangal, Telangana
 ───────────────────────────────
-💼  role     : Aspiring DevOps Engineer
+💼  role     : DevOps Engineer
 🎯  seeking  : Entry-level / Internship
-                / Mentorship
+                / Junior DevOps roles
 ───────────────────────────────
-🌱  learning : Kubernetes, Ansible,
-                Terraform, AWS SAA
+🌱  learning : Kubernetes, Terraform,
+                Ansible, AWS SAA
 ⚡  mantra   : Build · Break
                 Debug · Automate
 ───────────────────────────────
@@ -79,6 +79,7 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 ### ⚙️ CI/CD & Automation
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -88,6 +89,7 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### 📦 IaC & Config Management
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -98,6 +100,7 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -109,16 +112,16 @@ Currently deepening my expertise across the **full DevOps toolchain** — from L
 ## 📈 Skill Proficiency
 
 ```text
-Linux & Bash Scripting     ████████████████████░░   88%
-Git & GitHub               ███████████████████░░░   85%
-YAML & Configuration       ████████████████████░░   80%
-Docker & Containers        ██████████████░░░░░░░░   62%
-AWS Cloud (EC2, S3, IAM)   █████████████░░░░░░░░░   58%
-Jenkins & CI/CD            █████████████░░░░░░░░░   55%
-GitHub Actions             ████████████░░░░░░░░░░   50%
-Kubernetes (K8s)           ████████░░░░░░░░░░░░░░   32%
-Ansible & IaC              █████░░░░░░░░░░░░░░░░░   22%
-Terraform                  ████░░░░░░░░░░░░░░░░░░   18%
+Linux & Bash Scripting     ██████████████████████   95%
+Git & GitHub               ██████████████████████   92%
+YAML & Configuration       █████████████████████░   90%
+Docker & Containers        ███████████████████░░░   82%
+AWS Cloud (EC2, S3, IAM)   ██████████████████░░░░   78%
+Jenkins & CI/CD            █████████████████░░░░░   75%
+GitHub Actions             ████████████████░░░░░░   70%
+Kubernetes (K8s)           ████████████░░░░░░░░░░   55%
+Ansible & IaC              ██████████░░░░░░░░░░░░   45%
+Terraform                  █████████░░░░░░░░░░░░░   38%
 ```
 
 ---
@@ -177,15 +180,15 @@ Terraform                  ████░░░░░░░░░░░░░�
 </td>
 <td width="50%" valign="top">
 
-### 🔁 Git Workflow Practice Repo
-> Structured hands-on practice of Git branching strategies, rebase, conflict resolution, and PR workflows.
+### ⎈ Kubernetes Deployment Lab
+> Deployed and managed a multi-service application on a self-hosted Kubernetes cluster with rolling updates.
 
-**Stack:** `Git` `GitHub` `GitFlow` `Markdown`
+**Stack:** `Kubernetes` `Helm` `Docker` `Linux`
 
-- ✅ Feature branch & GitFlow branching strategies
-- ✅ Merge conflict resolution with multi-branch scenarios
-- ✅ Pull request templates & structured code review habits
-- ✅ Interactive rebase, cherry-pick & bisect exercises
+- ✅ Deployments, Services & Ingress configuration
+- ✅ Helm charts for repeatable, versioned deployments
+- ✅ ConfigMaps & Secrets for environment management
+- ✅ Rolling updates and rollback strategy testing
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
 
@@ -226,7 +229,7 @@ Terraform                  ████░░░░░░░░░░░░░�
 
 ---
 
-## 🎯 Roadmap — 2025 / 2026
+## 🎯 Roadmap — 2026 / 2027
 
 <div align="center">
 
@@ -234,13 +237,14 @@ Terraform                  ████░░░░░░░░░░░░░�
 |:---:|---|:---:|
 | Q1 2025 | Master Linux CLI & Bash scripting | ✅ Done |
 | Q1 2025 | Git & GitHub workflows (branching, PRs, rebase) | ✅ Done |
-| Q2 2025 | Build CI/CD pipeline with Jenkins + Docker | 🔄 In Progress |
-| Q2 2025 | AWS Cloud Practitioner Certification | 🔄 In Progress |
-| Q3 2025 | Kubernetes fundamentals (CKA prep begins) | 📌 Planned |
-| Q3 2025 | Ansible for configuration management | 📌 Planned |
-| Q4 2025 | Terraform for Infrastructure as Code | 📌 Planned |
-| Q4 2025 | AWS Solutions Architect Associate (SAA-C03) | 📌 Planned |
-| Q1 2026 | Land first DevOps Engineer / Intern role 🚀 | 🎯 Goal |
+| Q2 2025 | Build CI/CD pipeline with Jenkins + Docker | ✅ Done |
+| Q3 2025 | Kubernetes fundamentals lab deployment | ✅ Done |
+| Q1 2026 | AWS Cloud Practitioner Certification | 🔄 In Progress |
+| Q2 2026 | Complete B.Tech ECE & graduate | ✅ Done |
+| Q3 2026 | Ansible for configuration management | 🔄 In Progress |
+| Q3 2026 | Terraform for Infrastructure as Code | 📌 Planned |
+| Q4 2026 | AWS Solutions Architect Associate (SAA-C03) | 📌 Planned |
+| Q1 2027 | Land first DevOps Engineer role 🚀 | 🎯 Goal |
 
 </div>
 
@@ -298,6 +302,7 @@ Terraform                  ████░░░░░░░░░░░░░�
 | AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | 🔄 In Progress |
 | AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 📌 Planned |
 | Certified Kubernetes Administrator (CKA) | CNCF | 📌 Planned |
+| HashiCorp Certified: Terraform Associate | HashiCorp | 📌 Planned |
 | Docker Certified Associate | Docker | 📌 Planned |
 
 </div>
@@ -317,7 +322,7 @@ Terraform                  ████░░░░░░░░░░░░░�
 
 <div align="center">
 
-I'm actively looking for **entry-level DevOps roles, internships, and mentorship** opportunities.
+I'm a recent B.Tech graduate actively looking for **entry-level DevOps roles, internships, and mentorship** opportunities.
 If you're a recruiter, engineer, or fellow learner — my inbox is always open!
 
 <br/>
