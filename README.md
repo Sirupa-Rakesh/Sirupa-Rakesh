@@ -311,13 +311,11 @@ Terraform                  █████████░░░░░░░░�
 ---
 
 
-## 🐍 Snake Animation
+## 🐍 Contribution Snake
 
-Create `.github/workflows/snake.yml` and use Platane's snake action.
-
-![Snake](https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake.svg)
-
-<div align="center">
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ---
 
