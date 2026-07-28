@@ -311,23 +311,25 @@ Terraform                  █████████░░░░░░░░�
 ---
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <i>Every green square tells a story of continuous learning and building.</i>
-</p>
-
-<p align="center">
-  <img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Continuous-Learning-58A6FF?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/DevOps-Automation-1F6FEB?style=for-the-badge&labelColor=0d1117">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-238636?style=for-the-badge&labelColor=0d1117">
-</p>
-
 ---
+
+<div align="center">
+
+# 🐍 GitHub Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" width="92%" />
+
+<br><br>
+
+> **"Consistency compounds. Every contribution moves the journey forward."**
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_Automated_with_GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&color=161B22">
+<img src="https://img.shields.io/badge/🌙_Dark_Theme-161B22?style=for-the-badge&color=0D1117">
+<img src="https://img.shields.io/badge/🚀_Always_Building-238636?style=for-the-badge">
+
+</div>
 
 ---
 
