@@ -222,7 +222,7 @@ Terraform                  █████████░░░░░░░░�
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sirupa-Rakesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sirupa-Rakesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
 
 </div>
 
