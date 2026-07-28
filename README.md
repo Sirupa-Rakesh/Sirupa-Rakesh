@@ -217,9 +217,10 @@ Terraform                  █████████░░░░░░░░�
 
 </div>
 ---
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirupa-Rakesh&theme=github_dark" width="100%"/>
 </p>
 
 ---
