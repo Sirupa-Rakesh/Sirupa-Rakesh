@@ -307,16 +307,6 @@ Terraform                  █████████░░░░░░░░�
 
 ---
 
-
----
----
-
----
-
----
-
----
-
 <div align="center">
 
 # 🐍 GitHub Contribution Snake
