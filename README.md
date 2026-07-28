@@ -205,7 +205,7 @@ Terraform                  █████████░░░░░░░░�
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
+<img height="180px" src="https://streak-stats.demolab.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
 
 <br/><br/>
 
@@ -216,8 +216,6 @@ Terraform                  █████████░░░░░░░░�
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirupa-Rakesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
 
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
