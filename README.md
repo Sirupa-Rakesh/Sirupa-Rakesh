@@ -308,11 +308,21 @@ Terraform                  █████████░░░░░░░░�
 ---
 
 
-## 🐍 Contribution Snake
+---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg">
-</p>
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+
+<img width="90%" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Updated-Automatically-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Dark-181717?style=for-the-badge"/>
+
+</div>
 
 ---
 
