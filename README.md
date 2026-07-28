@@ -313,24 +313,27 @@ Terraform                  █████████░░░░░░░░�
 
 ---
 
+---
+
 <div align="center">
 
-# 🐍 GitHub Contribution Snake
+## 🌌 Contribution Activity
 
-<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" width="92%" />
-
-<br><br>
-
-> **"Consistency compounds. Every contribution moves the journey forward."**
+<img width="100%" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/⚡_Automated_with_GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&color=161B22">
-<img src="https://img.shields.io/badge/🌙_Dark_Theme-161B22?style=for-the-badge&color=0D1117">
-<img src="https://img.shields.io/badge/🚀_Always_Building-238636?style=for-the-badge">
+```text
+██████████████████████████████████████████████
+
+      BUILD • COMMIT • LEARN • AUTOMATE
+
+██████████████████████████████████████████████
+```
 
 </div>
 
+---
 ---
 
 ## 📬 Let's Connect
