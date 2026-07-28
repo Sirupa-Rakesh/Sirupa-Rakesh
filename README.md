@@ -218,13 +218,11 @@ Terraform                  █████████░░░░░░░░�
 </div>
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sirupa-Rakesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
