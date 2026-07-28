@@ -309,20 +309,25 @@ Terraform                  █████████░░░░░░░░�
 
 
 ---
+---
 
-## 🐍 GitHub Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
+<p align="center">
+  <i>Every green square tells a story of continuous learning and building.</i>
+</p>
 
-<img width="90%" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<p align="center">
+  <img width="95%" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Continuous-Learning-58A6FF?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/DevOps-Automation-1F6FEB?style=for-the-badge&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-238636?style=for-the-badge&labelColor=0d1117">
+</p>
 
-<img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Updated-Automatically-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Theme-Dark-181717?style=for-the-badge"/>
-
-</div>
+---
 
 ---
 
