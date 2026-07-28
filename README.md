@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+B.Tech+Graduate+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Building+Scalable+Infrastructure+%7C+Automating+Workflows;%E2%98%81%EF%B8%8F+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;%F0%9F%93%A6+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;%F0%9F%9A%80+B.Tech+Graduate+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,9 +12,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Sirupa--Rakesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
 [![Status](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-2ea44f?style=for-the-badge)](https://github.com/Sirupa-Rakesh)
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sirupa-Rakesh&label=Profile%20Views&color=1a6fa8&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
----
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Professional Summary
 
@@ -61,7 +67,7 @@ Now that I've graduated, I'm focused full-time on deepening my expertise across 
 </tr>
 </table>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🛠️ Tech Stack & Tools
 
@@ -107,7 +113,7 @@ Now that I've graduated, I'm focused full-time on deepening my expertise across 
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📈 Skill Proficiency
 
@@ -124,7 +130,7 @@ Ansible & IaC              ██████████░░░░░░░�
 Terraform                  █████████░░░░░░░░░░░░░   38%
 ```
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🚀 Featured Projects
 
@@ -197,7 +203,7 @@ Terraform                  █████████░░░░░░░░�
 </table>
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📊 GitHub Analytics
 
@@ -205,7 +211,7 @@ Terraform                  █████████░░░░░░░░�
 
 <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
 &nbsp;
-<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
+<img height="180px" src="https://streak-stats.demolab.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
 
 <br/><br/>
 
@@ -217,7 +223,7 @@ Terraform                  █████████░░░░░░░░�
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🏆 GitHub Trophies
 
@@ -227,7 +233,7 @@ Terraform                  █████████░░░░░░░░�
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🎯 Roadmap — 2026 / 2027
 
@@ -248,7 +254,7 @@ Terraform                  █████████░░░░░░░░�
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 💡 DevOps Philosophy
 
@@ -291,7 +297,7 @@ Terraform                  █████████░░░░░░░░�
 </tr>
 </table>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📜 Certifications & Learning
 
@@ -307,7 +313,7 @@ Terraform                  █████████░░░░░░░░�
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 🤝 Open Source & Community
 
@@ -316,7 +322,7 @@ Terraform                  █████████░░░░░░░░�
 - 💬 Sharing knowledge with fellow learners in DevOps communities
 - 🔖 Building a public portfolio of real infrastructure lab work
 
----
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 
 ## 📬 Let's Connect
 
