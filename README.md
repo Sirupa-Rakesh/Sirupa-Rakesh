@@ -216,11 +216,8 @@ Terraform                  █████████░░░░░░░░�
 ## 📊 GitHub Metrics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirupa-Rakesh&theme=github_dark" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sirupa-Rakesh&theme=github_dark" width="70%" />
 </p>
-
----
-
 ## 🎯 Roadmap — 2026 / 2027
 
 <div align="center">
