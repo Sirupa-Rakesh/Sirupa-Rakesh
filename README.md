@@ -304,19 +304,25 @@ Terraform                  █████████░░░░░░░░�
 - 📝 Documenting my learning journey through well-structured READMEs
 - 💬 Sharing knowledge with fellow learners in DevOps communities
 - 🔖 Building a public portfolio of real infrastructure lab work
-
 ---
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" width="95%">
-</p>
+# 🐍 GitHub Contribution Snake
 
-<p align="center">
-<i>Building • Learning • Automating • One Commit at a Time 🚀</i>
-</p>
+<img src="https://raw.githubusercontent.com/Sirupa-Rakesh/Sirupa-Rakesh/output/github-contribution-grid-snake-dark.svg" width="92%" />
 
+<br><br>
+
+> **"Consistency compounds. Every contribution moves the journey forward."**
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡_Automated_with_GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF&color=161B22">
+<img src="https://img.shields.io/badge/🌙_Dark_Theme-161B22?style=for-the-badge&color=0D1117">
+<img src="https://img.shields.io/badge/🚀_Always_Building-238636?style=for-the-badge">
+
+</div>
 
 ---
 
