@@ -1,356 +1,267 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0d3b5e,100:1a6fa8&height=220&section=header&text=Rakesh%20Sirupa&fontSize=72&fontColor=ffffff&fontAlignY=36&fontStyle=bold&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation&descAlignY=58&descSize=17&descColor=7eb8f7&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a3a5c,100:2892d7&height=260&section=header&text=RAKESH%20SIRUPA&fontSize=68&fontColor=ffffff&fontAlignY=42&fontStyle=bold&animation=twinkling" width="100%"/>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=4FC3F7&center=true&vCenter=true&width=800&separator=%7C&lines=DevOps+Engineer+%F0%9F%9A%80|Cloud+%26+Infrastructure+Automation+%E2%98%81%EF%B8%8F|Docker+%C2%B7+Kubernetes+%C2%B7+Jenkins+%C2%B7+AWS|Build+%C2%B7+Break+%C2%B7+Debug+%C2%B7+Automate" alt="typing"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A7+Building+Scalable+Infrastructure+%7C+Automating+Workflows;%E2%98%81%EF%B8%8F+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;%F0%9F%93%A6+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;%F0%9F%9A%80+B.Tech+Graduate+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
+<br>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Sirupa-Rakesh&label=PROFILE+VIEWS&color=2892d7&style=for-the-badge&labelColor=0d1117" height="30"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-2ea44f?style=for-the-badge&labelColor=0d1117" height="30"/>
+<img src="https://img.shields.io/github/followers/Sirupa-Rakesh?label=FOLLOWERS&style=for-the-badge&color=4FC3F7&labelColor=0d1117" height="30"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sirupa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-[![GitHub](https://img.shields.io/badge/GitHub-Sirupa--Rakesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-[![Status](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-2ea44f?style=for-the-badge)](https://github.com/Sirupa-Rakesh)
+<br><br>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Sirupa-Rakesh&label=Profile%20Views&color=1a6fa8&style=for-the-badge" alt="Profile Views"/>
+<a href="https://www.linkedin.com/in/rakesh-sirupa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&section=header&text=&width=1200" width="100%"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<table width="100%">
+<tr><td>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Professional Summary
+### 🎯 &nbsp; About Me
 
-<table>
+B.Tech ECE graduate (2026) from Warangal, Telangana — full-time now on **DevOps, Cloud Infrastructure & Automation**. I build labs, break them on purpose, and rebuild until I actually understand the failure mode, not just the fix.
+
+```
+▸ Debugging-first mindset, not guess-and-check
+▸ Everything scripted gets version-controlled
+▸ Comfortable across the full Linux → Cloud → Orchestration stack
+▸ Ships real infra, documents it properly
+```
+
+</td></tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
+
+## ⚙️ &nbsp; Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu,git,github,docker,kubernetes,aws,jenkins,terraform,ansible,githubactions,nginx,py,js,yaml&theme=dark&perline=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
+
+## 📊 &nbsp; Proficiency Timeline
+
+<table width="100%">
+<tr><td width="35%"><b>Linux & Bash</b></td><td width="65%">
+
+![](https://progress-bar.dev/95/?width=500&color=4fc3f7&title=95%25)
+
+</td></tr>
+<tr><td><b>Git & GitHub</b></td><td>
+
+![](https://progress-bar.dev/92/?width=500&color=4fc3f7&title=92%25)
+
+</td></tr>
+<tr><td><b>Docker</b></td><td>
+
+![](https://progress-bar.dev/82/?width=500&color=2892d7&title=82%25)
+
+</td></tr>
+<tr><td><b>AWS (EC2 / S3 / IAM)</b></td><td>
+
+![](https://progress-bar.dev/78/?width=500&color=2892d7&title=78%25)
+
+</td></tr>
+<tr><td><b>Jenkins & CI/CD</b></td><td>
+
+![](https://progress-bar.dev/75/?width=500&color=2892d7&title=75%25)
+
+</td></tr>
+<tr><td><b>Kubernetes</b></td><td>
+
+![](https://progress-bar.dev/55/?width=500&color=f7b955&title=55%25)
+
+</td></tr>
+<tr><td><b>Ansible</b></td><td>
+
+![](https://progress-bar.dev/45/?width=500&color=f7b955&title=45%25)
+
+</td></tr>
+<tr><td><b>Terraform</b></td><td>
+
+![](https://progress-bar.dev/38/?width=500&color=f7b955&title=38%25)
+
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
+
+## 🚀 &nbsp; Projects
+
+<table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td width="50%" valign="top">
 
-I am a **B.Tech ECE graduate (2026)** from Warangal, Telangana, India, with a strong passion for **DevOps, Cloud Infrastructure, and Automation**. I thrive on solving infrastructure challenges, building reliable pipelines, and automating repetitive workflows.
+<h3>🐳 Docker CI/CD Pipeline</h3>
 
-Now that I've graduated, I'm focused full-time on deepening my expertise across the **full DevOps toolchain** — from Linux internals and Bash scripting to containerization with Docker, orchestration with Kubernetes, and cloud deployments on AWS. My approach is hands-on: I spin up lab environments, break things intentionally, and rebuild with deeper understanding.
+Containerized a web app end-to-end with an automated build-test-deploy cycle in Jenkins.
 
-**What I bring to a team:**
-- 🔍 Strong problem-solving with a debugging-first mindset
-- 🤝 Clear technical communication & documentation habits
-- ⚡ Self-driven learner who ships real projects, not just theory
-- 🔁 Comfortable with Linux CLI, Git workflows & pipeline automation
-- 📝 Version-control everything — if I script it, I commit it
+`Docker` `Jenkins` `Nginx` `Bash`
+
+- Multi-stage Dockerfile, lean image builds
+- Pipeline triggers on every push
+- Nginx reverse proxy + health checks
+
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/Open_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
-<td valign="top" width="40%">
+<td width="50%" valign="top">
 
-```yaml
-# rakesh-sirupa.yaml
-───────────────────────────────
-👤  name     : Rakesh Sirupa
-🎓  degree   : B.Tech ECE (Graduated)
-📅  batch    : 2022 – 2026
-📍  location : Warangal, Telangana
-───────────────────────────────
-💼  role     : DevOps Engineer
-🎯  seeking  : Entry-level / Internship
-                / Junior DevOps roles
-───────────────────────────────
-🌱  learning : Kubernetes, Terraform,
-                Ansible, AWS SAA
-⚡  mantra   : Build · Break
-                Debug · Automate
-───────────────────────────────
-🟢  status   : Open to Opportunities
-───────────────────────────────
-```
+<h3>☁️ AWS Infrastructure</h3>
+
+Provisioned core AWS services for a small web app following least-privilege security practice.
+
+`EC2` `S3` `IAM` `VPC`
+
+- Security groups, key pairs, encrypted S3
+- IAM least-privilege roles
+- Public/private subnet VPC design
+
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/Open_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🐧 Linux Automation Scripts</h3>
+
+Production-quality Bash scripts automating repetitive sysadmin work.
+
+`Bash` `Cron` `systemd`
+
+- CPU / memory / disk health alerts
+- Compressed backup + log rotation
+- Cron-scheduled maintenance
+
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/Open_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⎈ Kubernetes Deployment Lab</h3>
+
+Multi-service app on a self-hosted cluster with rolling updates.
+
+`Kubernetes` `Helm` `Docker`
+
+- Deployments, Services, Ingress
+- Helm charts, versioned releases
+- Rollback strategy testing
+
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/Open_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
 
-## 🛠️ Tech Stack & Tools
+## 📈 &nbsp; GitHub Analytics
 
 <div align="center">
 
-### 🖥️ Operating Systems & Shell
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=powershell&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=4fc3f7&icon_color=4fc3f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=4fc3f7&fire=f7b955&currStreakLabel=4fc3f7&background=0d1117" height="175"/>
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+<br><br>
 
-### ⚙️ CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=github_dark&hide_border=true&title_color=4fc3f7&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+<br><br>
 
-### 📦 IaC & Config Management
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sirupa-Rakesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=4fc3f7&line=2892d7&point=4fc3f7&area=true&area_color=2892d7" width="97%"/>
 
-### 🔀 Version Control & Collaboration
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Sirupa-Rakesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
 
-## 📈 Skill Proficiency
-
-```text
-Linux & Bash Scripting     ██████████████████████   95%
-Git & GitHub               ██████████████████████   92%
-YAML & Configuration       █████████████████████░   90%
-Docker & Containers        ███████████████████░░░   82%
-AWS Cloud (EC2, S3, IAM)   ██████████████████░░░░   78%
-Jenkins & CI/CD            █████████████████░░░░░   75%
-GitHub Actions             ████████████████░░░░░░   70%
-Kubernetes (K8s)           ████████████░░░░░░░░░░   55%
-Ansible & IaC              ██████████░░░░░░░░░░░░   45%
-Terraform                  █████████░░░░░░░░░░░░░   38%
-```
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐳 Docker CI/CD Pipeline
-> Containerized a web application using Docker and automated the full build-test-deploy cycle with Jenkins.
-
-**Stack:** `Docker` `Jenkins` `Nginx` `Linux` `Bash`
-
-- ✅ Multi-stage Dockerfile for optimized, lean image builds
-- ✅ Automated Jenkins pipeline triggered on every git push
-- ✅ Nginx reverse proxy for traffic routing
-- ✅ Container health checks & automatic restart policies
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ AWS Infrastructure Setup
-> Provisioned and configured core AWS services for a small web application with security best practices.
-
-**Stack:** `AWS EC2` `S3` `IAM` `VPC` `Bash`
-
-- ✅ EC2 instance setup with security groups & key pairs
-- ✅ S3 bucket policies for static assets & encrypted backups
-- ✅ IAM roles with least-privilege access policies
-- ✅ VPC with public and private subnet configuration
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐧 Linux Automation Scripts
-> A collection of production-quality Bash scripts to automate repetitive system administration tasks.
-
-**Stack:** `Bash` `Linux` `Cron` `systemd` `Git`
-
-- ✅ System health monitoring with CPU, memory & disk alerts
-- ✅ Automated backup pipeline with compressed log rotation
-- ✅ User provisioning and permission management automation
-- ✅ Cron-based scheduling for periodic maintenance tasks
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-
-</td>
-<td width="50%" valign="top">
-
-### ⎈ Kubernetes Deployment Lab
-> Deployed and managed a multi-service application on a self-hosted Kubernetes cluster with rolling updates.
-
-**Stack:** `Kubernetes` `Helm` `Docker` `Linux`
-
-- ✅ Deployments, Services & Ingress configuration
-- ✅ Helm charts for repeatable, versioned deployments
-- ✅ ConfigMaps & Secrets for environment management
-- ✅ Rolling updates and rollback strategy testing
-
-[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
-
-</td>
-</tr>
-</table>
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 📊 GitHub Analytics
+## 🗺️ &nbsp; Roadmap
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Sirupa-Rakesh&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="180px" src="https://streak-stats.demolab.com/?user=Sirupa-Rakesh&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&background=0d1117" />
-
-<br/><br/>
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirupa-Rakesh&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sirupa-Rakesh&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Sirupa-Rakesh&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10)
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 🎯 Roadmap — 2026 / 2027
-
-<div align="center">
-
-| Quarter | Goal | Status |
+| Timeline | Milestone | Status |
 |:---:|---|:---:|
-| Q1 2025 | Master Linux CLI & Bash scripting | ✅ Done |
-| Q1 2025 | Git & GitHub workflows (branching, PRs, rebase) | ✅ Done |
-| Q2 2025 | Build CI/CD pipeline with Jenkins + Docker | ✅ Done |
-| Q3 2025 | Kubernetes fundamentals lab deployment | ✅ Done |
-| Q1 2026 | AWS Cloud Practitioner Certification | 🔄 In Progress |
-| Q2 2026 | Complete B.Tech ECE & graduate | ✅ Done |
-| Q3 2026 | Ansible for configuration management | 🔄 In Progress |
-| Q3 2026 | Terraform for Infrastructure as Code | 📌 Planned |
-| Q4 2026 | AWS Solutions Architect Associate (SAA-C03) | 📌 Planned |
-| Q1 2027 | Land first DevOps Engineer role 🚀 | 🎯 Goal |
+| Q1 '25 | Linux CLI & Bash mastery | ✅ |
+| Q1 '25 | Git/GitHub workflows | ✅ |
+| Q2 '25 | Jenkins + Docker CI/CD | ✅ |
+| Q3 '25 | Kubernetes fundamentals lab | ✅ |
+| Q2 '26 | B.Tech ECE graduation | ✅ |
+| Q1 '26 | AWS Cloud Practitioner | 🔄 |
+| Q3 '26 | Ansible config management | 🔄 |
+| Q3 '26 | Terraform IaC | 📌 |
+| Q4 '26 | AWS SAA-C03 | 📌 |
+| Q1 '27 | First DevOps role 🎯 | 📌 |
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
 
-## 💡 DevOps Philosophy
+## 💭 &nbsp; Philosophy
 
 <div align="center">
 
-> *"Infrastructure should be code. Deployments should be boring. Incidents should be learning opportunities."*
+*"Infrastructure should be code. Deployments should be boring. Incidents should be learning opportunities."*
 
-</div>
+<br>
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
-
-**🔨 Build**
-
-<sub>Hands-on projects over tutorials. Every tool I learn gets deployed in a real lab before I call it learned.</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🧪 Break**
-
-<sub>Intentional failures teach more than smooth runs. I break my setups to understand failure modes deeply.</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🔍 Debug**
-
-<sub>Logs, metrics, and root-cause thinking. Every issue is a chance to go deeper into systems.</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🔁 Automate**
-
-<sub>If I do it twice, I script it. If I script it, I version-control it. Manual is temporary.</sub>
-
-</td>
+<td align="center" width="25%">🔨<br><b>Build</b><br><sub>Lab it before calling it learned</sub></td>
+<td align="center" width="25%">🧪<br><b>Break</b><br><sub>Failure modes teach more than smooth runs</sub></td>
+<td align="center" width="25%">🔍<br><b>Debug</b><br><sub>Logs + root-cause thinking</sub></td>
+<td align="center" width="25%">🔁<br><b>Automate</b><br><sub>Twice manual = scripted forever</sub></td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
+</div>
 
-## 📜 Certifications & Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
+
+## 📜 &nbsp; Certifications
 
 <div align="center">
 
 | Certification | Provider | Status |
 |---|---|:---:|
-| AWS Cloud Practitioner (CLF-C02) | Amazon Web Services | 🔄 In Progress |
-| AWS Solutions Architect Associate (SAA-C03) | Amazon Web Services | 📌 Planned |
-| Certified Kubernetes Administrator (CKA) | CNCF | 📌 Planned |
-| HashiCorp Certified: Terraform Associate | HashiCorp | 📌 Planned |
+| AWS Cloud Practitioner (CLF-C02) | AWS | 🔄 In Progress |
+| AWS Solutions Architect Associate (SAA-C03) | AWS | 📌 Planned |
+| Certified Kubernetes Administrator | CNCF | 📌 Planned |
+| Terraform Associate | HashiCorp | 📌 Planned |
 | Docker Certified Associate | Docker | 📌 Planned |
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 🤝 Open Source & Community
-
-- 🌐 Actively learning by contributing to DevOps-focused open source repos
-- 📝 Documenting my learning journey through well-structured READMEs
-- 💬 Sharing knowledge with fellow learners in DevOps communities
-- 🔖 Building a public portfolio of real infrastructure lab work
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
-
-## 📬 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:2892d7&height=3&section=header&width=1200" width="100%"/>
 
 <div align="center">
 
-I'm a recent B.Tech graduate actively looking for **entry-level DevOps roles, internships, and mentorship** opportunities.
-If you're a recruiter, engineer, or fellow learner — my inbox is always open!
+## 📬 &nbsp; Let's Connect
 
-<br/>
+Recent B.Tech grad looking for **entry-level DevOps roles, internships, and mentorship**. Recruiters, engineers, fellow learners — inbox is open.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
+<a href="https://www.linkedin.com/in/rakesh-sirupa"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sirupa-Rakesh"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
+<br><br>
 
-![Availability](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-2ea44f?style=for-the-badge)
+<sub>⭐ Star a repo if it helped — fuels the late-night lab sessions ⭐</sub>
 
-</div>
-
----
-
-<div align="center">
-
-<sub>⭐ <i>Star a repo if you find it helpful — it fuels the late-night lab sessions!</i> ⭐</sub>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6fa8,50:0d3b5e,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2892d7,60:1a3a5c,100:0d1117&height=140&section=footer" width="100%"/>
 
 </div>
