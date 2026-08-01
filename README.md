@@ -2,11 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0d3b5e,100:1a6fa8&height=220&section=header&text=Rakesh%20Sirupa&fontSize=72&fontColor=ffffff&fontAlignY=36&fontStyle=bold&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Automation&descAlignY=58&descSize=17&descColor=7eb8f7&animation=fadeIn" />
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=🔧+Building+Scalable+Infrastructure+%7C+Automating+Workflows;☁️+AWS+%7C+Linux+%7C+Docker+%7C+Jenkins+%7C+Kubernetes;📦+Containerization+%7C+CI%2FCD+Pipelines+%7C+IaC;🚀+B.Tech+Graduate+with+a+Builder's+Mindset+%26+DevOps+DNA)](https://git.io/typing-svg)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rakesh%20Sirupa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-sirupa)
 [![GitHub](https://img.shields.io/badge/GitHub-Sirupa--Rakesh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sirupa-Rakesh)
